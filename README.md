@@ -1,19 +1,17 @@
 # mall
+* 仿蘑菇街商城Vue项目
 
-## Project setup
+### 安装项目依赖
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 本地运行
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 打包文件
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
